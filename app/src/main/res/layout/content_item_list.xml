@@ -14,7 +14,7 @@
         android:layout_height="match_parent"
         android:text="Please Select Your Item"
         android:gravity="center_horizontal"
-        android:textSize="21sp"
+        android:textSize="22sp"
         android:textStyle="bold"
         android:textColor="#ffff"/>
 
